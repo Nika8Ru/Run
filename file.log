@@ -1,0 +1,230 @@
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+[Violation] 'setTimeout' handler took <N>ms
+pubads_impl.js:10 [GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled.
+(anonymous) @ pubads_impl.js:10
+OI.log @ pubads_impl.js:10
+Q @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ x9a6128silver:80
+jn.push @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+kn @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:18
+(anonymous) @ pubads_impl.js:18
+(anonymous) @ pubads_impl.js:18
+pubads_impl.js:10 [GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled.
+(anonymous) @ pubads_impl.js:10
+OI.log @ pubads_impl.js:10
+Q @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ x9a6128silver:92
+jn.push @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:10
+kn @ pubads_impl.js:10
+(anonymous) @ pubads_impl.js:18
+(anonymous) @ pubads_impl.js:18
+(anonymous) @ pubads_impl.js:18
+container.html:16 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+(anonymous) @ container.html:16
+(anonymous) @ container.html:16
+VM647:1 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+O @ VM647:1
+(anonymous) @ VM647:1
+(anonymous) @ VM647:1
+(anonymous) @ container.html:16
+(anonymous) @ container.html:16
+index.html:177 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+d.connectedCallback @ index.html:177
+index.html:177 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+d.connectedCallback @ index.html:177
+R @ index.html:108
+f.goToPage @ index.html:110
+g.P @ index.html:148
+g.goToPage @ index.html:145
+g.ta @ index.html:143
+g.ma @ index.html:140
+g.la @ index.html:140
+a @ index.html:138
+g.ka @ index.html:139
+g.initAd @ index.html:134
+(anonymous) @ index.html:262
+catalog-delivery-region-empty-app.js?token=1691660491:15 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+catalog-pickup-points-map-app.js?token=1691660491:15 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+vue-short-product-prices.78656e80987fc27c.js:12 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+?lang=ru_RU:1 (Yandex Maps JS API): Invalid API key
+ymapsInit @ ?lang=ru_RU:1
+(anonymous) @ ?lang=ru_RU:1
+product-apps.05985a4e42c37376.js:17 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Forced reflow while executing JavaScript took 74ms
+recommended-products.6c0c4127d4d41c17.js:9 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+user-extended.e9685920baee8567.js:1 Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+conversion.0d51f3f076957a99.js:29 Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.
+Lb @ conversion.0d51f3f076957a99.js:29
+(anonymous) @ conversion.0d51f3f076957a99.js:101
+(anonymous) @ conversion.0d51f3f076957a99.js:101
+(anonymous) @ conversion.0d51f3f076957a99.js:101
+vendor.2c6e1996aa1a14b1.js:1 [Violation] 'DOMContentLoaded' handler took 230ms
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Deprecation] Listener added for a synchronous 'DOMNodeInserted' DOM Mutation Event. This event type is deprecated (<URL>) and work is underway to remove it from this browser. Usage of this event listener will cause performance issues today, and represents a risk of future incompatibility. Consider using MutationObserver instead.
+[Violation] 'DOMContentLoaded' handler took 180ms
+helper-iframe.462748c30822507c.js:1 [WebPushService]: The user has blocked notifications.
+a @ helper-iframe.462748c30822507c.js:1
+value @ helper-iframe.462748c30822507c.js:1
+4 @ helper-iframe.462748c30822507c.js:1
+e @ helper-iframe.462748c30822507c.js:1
+(anonymous) @ helper-iframe.462748c30822507c.js:1
+3.../services/web-push-service @ helper-iframe.462748c30822507c.js:1
+e @ helper-iframe.462748c30822507c.js:1
+(anonymous) @ helper-iframe.462748c30822507c.js:1
+1../helper-iframe/GeneralHelperIframe @ helper-iframe.462748c30822507c.js:1
+e @ helper-iframe.462748c30822507c.js:1
+a @ helper-iframe.462748c30822507c.js:1
+(anonymous) @ helper-iframe.462748c30822507c.js:1
+common.df1771e1b47d9cc1.js:1     HEAD https://catalog.onliner.by/sdapi/catalog.api/bookmarks/x9a6128silver 404 (Not Found)
+(anonymous) @ common.df1771e1b47d9cc1.js:1
+b.exports @ common.df1771e1b47d9cc1.js:1
+b.exports @ common.df1771e1b47d9cc1.js:1
+Promise.then (async)
+d.request @ common.df1771e1b47d9cc1.js:1
+(anonymous) @ common.df1771e1b47d9cc1.js:1
+d.query @ common.df1771e1b47d9cc1.js:1
+d.check @ bookmarks.js?token=1691660491:1
+d.check @ bookmarks.js?token=1691660491:1
+d.initialBehavior @ bookmarks.js?token=1691660491:1
+(anonymous) @ x9a6128silver:1827
+l @ vendor.2c6e1996aa1a14b1.js:1
+fireWith @ vendor.2c6e1996aa1a14b1.js:1
+ready @ vendor.2c6e1996aa1a14b1.js:1
+ma @ vendor.2c6e1996aa1a14b1.js:1
+[Violation] Forced reflow while executing JavaScript took 31ms
+[Violation] Forced reflow while executing JavaScript took 88ms
+main.MTAwYzY4Y2VmMA.js:5 [TikTok Pixel] - Missing 'content_id' paramter
+Issue: The 'content_id' parameter isn't being received. This is required for Video Shopping Ads (VSA).
+Suggestion: Include the 'content_id' parameter in your source code. This is required for Video Shopping Ads (VSA). See https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2 for more information.
+g.warn @ main.MTAwYzY4Y2VmMA.js:5
+g.handleEventPayloadValidate @ main.MTAwYzY4Y2VmMA.js:5
+g.pixelSend @ main.MTAwYzY4Y2VmMA.js:5
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+bt.trackSync @ main.MTAwYzY4Y2VmMA.js:6
+le.trackSync @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+Promise.then (async)
+bt.track @ main.MTAwYzY4Y2VmMA.js:6
+le.track @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+Promise.then (async)
+_.track @ main.MTAwYzY4Y2VmMA.js:6
+S.track @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ VM1314:2
+m @ main.MTAwYzY4Y2VmMA.js:6
+B.dispatcher @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+main.MTAwYzY4Y2VmMA.js:5 [TikTok Pixel] - Missing 'content_id' paramter
+Issue: The 'content_id' parameter isn't being received. This is required for Video Shopping Ads (VSA).
+Suggestion: Include the 'content_id' parameter in your source code. This is required for Video Shopping Ads (VSA). See https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2 for more information.
+g.warn @ main.MTAwYzY4Y2VmMA.js:5
+g.handleEventPayloadValidate @ main.MTAwYzY4Y2VmMA.js:5
+g.pixelSend @ main.MTAwYzY4Y2VmMA.js:5
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+bt.trackSync @ main.MTAwYzY4Y2VmMA.js:6
+le.trackSync @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+Promise.then (async)
+bt.track @ main.MTAwYzY4Y2VmMA.js:6
+le.track @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+Promise.then (async)
+_.track @ main.MTAwYzY4Y2VmMA.js:6
+S.track @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+j.track @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ main.MTAwYzY4Y2VmMA.js:6
+(anonymous) @ VM1332:1
+(anonymous) @ gtm.js?id=GTM-WKXXCWB:514
+b @ gtm.js?id=GTM-WKXXCWB:515
+pf @ gtm.js?id=GTM-WKXXCWB:105
+e @ gtm.js?id=GTM-WKXXCWB:333
+(anonymous) @ gtm.js?id=GTM-WKXXCWB:55
+(anonymous) @ gtm.js?id=GTM-WKXXCWB:334
+(anonymous) @ gtm.js?id=GTM-WKXXCWB:334
+yv @ gtm.js?id=GTM-WKXXCWB:335
+Hv @ gtm.js?id=GTM-WKXXCWB:339
+Sw @ gtm.js?id=GTM-WKXXCWB:359
+Vw @ gtm.js?id=GTM-WKXXCWB:364
+Zw.b.push @ gtm.js?id=GTM-WKXXCWB:368
+Zw.b.push @ js?id=G-NG54S9EFTD&l=dataLayer&cx=c:396
+Zw.b.push @ js?id=G-4Y6NQKE48G&l=dataLayer&cx=c:403
+a.push @ code.js:32
+Pw @ gtm.js?id=GTM-WKXXCWB:358
+gy @ gtm.js?id=GTM-WKXXCWB:373
+a @ gtm.js?id=GTM-WKXXCWB:449
+vue-short-product-prices.78656e80987fc27c.js:6 sendEvent
